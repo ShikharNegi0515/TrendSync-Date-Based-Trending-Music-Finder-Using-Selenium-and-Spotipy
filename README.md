@@ -1,1 +1,3 @@
 # TrendSync-Date-Based-Trending-Music-Finder-Using-Selenium-and-Spotipy
+The project, TrendSync, was designed to allow users to discover the top trending songs from a specific date in the past. By entering a date, the user could generate a playlist of the most popular tracks from that time. The application was built using Selenium, a powerful web automation tool, and the Spotipy API, a Python library for the Spotify Web API.
+This project showcased the integration of web scraping with API usage, offering users a nostalgic and personalized music experience while demonstrating the practical application of automation and data retrieval techniques
